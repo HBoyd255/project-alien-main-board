@@ -426,8 +426,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "DFRobot_DC_Motor_Driver_Shield"
+    ],
+    "pinned_symbol_libs": [
+      "DFRobot_DC_Motor_Driver_Shield"
+    ]
   },
   "meta": {
     "filename": "ProjectAlienArbReplacement.kicad_pro",
