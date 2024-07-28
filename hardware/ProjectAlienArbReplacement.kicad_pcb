@@ -5615,7 +5615,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "7158f395-ce9b-4347-8fb4-c07be0a57800")
-		(at 164.25 135.67)
+		(at 164.25 134.62)
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J5"
@@ -10599,7 +10599,7 @@
 	)
 	(gr_circle
 		(center 163 130)
-		(end 163 127.75)
+		(end 164.4 130)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -10661,7 +10661,7 @@
 	)
 	(gr_circle
 		(center 114 72)
-		(end 114 69.75)
+		(end 115.4 72)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -10672,7 +10672,7 @@
 	)
 	(gr_circle
 		(center 114 130)
-		(end 114 127.75)
+		(end 115.4 130)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -10683,7 +10683,7 @@
 	)
 	(gr_circle
 		(center 163 72)
-		(end 163 69.75)
+		(end 164.4 72)
 		(stroke
 			(width 0.1)
 			(type solid)
