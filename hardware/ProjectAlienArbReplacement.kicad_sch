@@ -3965,7 +3965,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
+		(property "Footprint" "Adafruit_1833_Shield:Adafruit_1833_Shield"
 			(at 46.99 171.45 0)
 			(effects
 				(font
@@ -4682,6 +4682,85 @@
 			(project "ProjectAlienArbReplacement"
 				(path "/170b00d5-17da-40d3-a37d-b29c3db0afc1"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x05_Socket")
+		(at 146.05 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1aa1304-00eb-4b2c-be9c-29c5749ecadb")
+		(property "Reference" "J8"
+			(at 147.32 175.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "I2C Multiplexer"
+			(at 147.32 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Adafruit_5664_Shield:Adafruit_5664_Shield"
+			(at 146.05 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 146.05 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x05, script generated"
+			(at 146.05 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "a585acbf-67b0-4376-a11b-e4aba83a42a7")
+		)
+		(pin "3"
+			(uuid "57dd996a-4c26-485e-8a39-e9579dd41204")
+		)
+		(pin "1"
+			(uuid "c8d05e30-dc2d-4bec-b9e9-63fc30531fa7")
+		)
+		(pin "5"
+			(uuid "a8fe2548-57a6-4017-9e6b-cec8486f127d")
+		)
+		(pin "2"
+			(uuid "d7e9f8f7-8ea3-4767-8b48-c8fd6b0470f7")
+		)
+		(instances
+			(project "ProjectAlienArbReplacement"
+				(path "/170b00d5-17da-40d3-a37d-b29c3db0afc1"
+					(reference "J8")
 					(unit 1)
 				)
 			)
