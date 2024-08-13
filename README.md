@@ -1,4 +1,4 @@
-# Project A.L.I.E.N. ARB Replacement
+# Project A.L.I.E.N. Main Board
 
 <!-- Harry Boyd - hboyd255@gmail.com - 22/07/2024 -->
 
