@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "A.L.I.E.N. Main Board")
+		(date "2024-08-13")
+		(rev "1.0")
+		(comment 1 "Designed By: Harry Boyd")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(31 "B.Cu" signal)
@@ -226,7 +232,7 @@
 		(property ki_fp_filters "Arduino*Nano*")
 		(path "/73b1adff-f6c6-42e9-81ce-64079e4fcc16")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.68 42.04)
@@ -1247,7 +1253,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e1aa1304-00eb-4b2c-be9c-29c5749ecadb")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -10.12 -10.32)
@@ -2564,7 +2570,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/5bedd6bf-29ad-48f9-86be-7b5f580798a6")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2865,7 +2871,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/251499a9-3404-4182-a35c-8e3d7393f421")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.16 -2.6)
@@ -3869,7 +3875,7 @@
 		)
 		(path "/6882d109-ce95-436d-ad30-274cbc3898f9")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -10.198026 -8.928026)
@@ -5362,7 +5368,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c08703f4-c43a-4b78-a09d-85dbd757d8d5")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5467,7 +5473,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/b58c463e-21cd-40c2-9b1b-de177acffbaa")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5581,7 +5587,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm*")
 		(path "/13123cf8-e4ec-412f-b1a4-6cbda89b6634")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.16 19.11)
@@ -5936,7 +5942,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "7158f395-ce9b-4347-8fb4-c07be0a57800")
-		(at 164.25 134.62)
+		(at 170.18 135.89)
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J5"
@@ -6000,7 +6006,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2ce1f7b8-9a96-47e3-a626-b37383d1de70")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -6278,7 +6284,7 @@
 		)
 		(path "/b97b0c97-58a5-4f4e-98ae-306f131be1e5")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(fp_rect
 			(start 13.003859 -11.74657)
 			(end 15.69914 -9.312)
@@ -6526,7 +6532,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c4e9dfcd-91c7-44b8-86b1-2a109fb31e91")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6640,7 +6646,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/df5b1a8d-1063-47ff-a0d7-8d5fd46b5cac")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 -1.27)
@@ -8116,7 +8122,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4f1285ac-02cc-49e8-b402-f4ffa5c80b01")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.1 0.38)
@@ -8938,7 +8944,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1e73c68c-40cc-455b-a788-20c539e02e10")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 1.27)
@@ -10022,7 +10028,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/21a30102-28f2-478a-ac1e-f5af8407ef8e")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienArbReplacement.kicad_sch")
+		(sheetfile "ProjectAlienMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.1 0.38)
@@ -11034,52 +11040,96 @@
 			)
 		)
 	)
-	(gr_line
-		(start 103.95 52.9)
-		(end 173.05 52.9)
+	(gr_arc
+		(start 173.05 148.5)
+		(mid 171.585534 152.035534)
+		(end 168.05 153.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "79eefe5f-d36b-4a34-8db9-96859c714df3")
+		(uuid "0762931e-818e-41e5-9866-3b0bf242c0d1")
 	)
 	(gr_line
-		(start 103.95 153.5)
-		(end 103.95 52.9)
+		(start 173.05 148.5)
+		(end 173.05 57.9)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "870ac478-1f87-4e97-96b2-28e8b3a96d61")
+		(uuid "50c6c233-3866-4b6d-8cb0-e3d3b624f4dc")
 	)
 	(gr_line
-		(start 173.05 153.5)
-		(end 173.05 52.9)
+		(start 168.05 52.9)
+		(end 108.95 52.9)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "c06d917b-8f1b-4ed2-943a-9ff2319c5b92")
+		(uuid "6c16ee7f-4a9d-448a-ad8a-cde8a30f06c7")
 	)
 	(gr_line
-		(start 173.05 153.5)
-		(end 103.95 153.5)
+		(start 108.95 153.5)
+		(end 168.05 153.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "c2b0b19a-48aa-4ae2-a952-9f25db60e84b")
+		(uuid "72e14dae-e42e-4db7-a5ae-2bd5013e1e8d")
+	)
+	(gr_arc
+		(start 108.95 153.5)
+		(mid 105.414466 152.035534)
+		(end 103.95 148.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c860c21a-08f5-4c03-8915-206027afa625")
+	)
+	(gr_arc
+		(start 168.05 52.9)
+		(mid 171.585534 54.364466)
+		(end 173.05 57.9)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dc3d2b26-e902-4e49-9b06-8b6bc477fa51")
+	)
+	(gr_arc
+		(start 103.95 57.9)
+		(mid 105.414466 54.364466)
+		(end 108.95 52.9)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e5c0358d-c8e8-4da7-b468-3a30b2833571")
+	)
+	(gr_line
+		(start 103.95 57.9)
+		(end 103.95 148.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f5535738-ebcb-4d12-8861-2c8079402787")
 	)
 	(group ""
-		(uuid "9263b863-3692-413f-a270-1116ced519ef")
-		(members "314df4b6-4d44-4a2c-9948-7561ff2cd3bf" "56a19394-8d3b-494b-8114-4e80be3695e4"
-			"6238faaa-2a80-4400-b16f-04a6e4e532ca" "79eefe5f-d36b-4a34-8db9-96859c714df3"
-			"870ac478-1f87-4e97-96b2-28e8b3a96d61" "c06d917b-8f1b-4ed2-943a-9ff2319c5b92"
-			"c2b0b19a-48aa-4ae2-a952-9f25db60e84b" "d9d95080-6408-4977-b597-9c6bf767d439"
+		(uuid "54eaad31-339b-45a2-8928-59de888273f4")
+		(members "0762931e-818e-41e5-9866-3b0bf242c0d1" "50c6c233-3866-4b6d-8cb0-e3d3b624f4dc"
+			"6c16ee7f-4a9d-448a-ad8a-cde8a30f06c7" "72e14dae-e42e-4db7-a5ae-2bd5013e1e8d"
+			"c860c21a-08f5-4c03-8915-206027afa625" "dc3d2b26-e902-4e49-9b06-8b6bc477fa51"
+			"e5c0358d-c8e8-4da7-b468-3a30b2833571" "f5535738-ebcb-4d12-8861-2c8079402787"
 		)
 	)
 )
