@@ -6585,7 +6585,7 @@
 			)
 		)
 	)
-	(global_label "Buzzer"
+	(global_label "D11"
 		(shape input)
 		(at 283.21 142.24 0)
 		(fields_autoplaced yes)
@@ -6597,7 +6597,7 @@
 		)
 		(uuid "5e10f7d6-2178-4828-8ed4-3b9652f10e78")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 292.5452 142.24 0)
+			(at 289.8842 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
