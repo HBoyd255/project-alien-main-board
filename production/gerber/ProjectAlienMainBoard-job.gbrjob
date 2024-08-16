@@ -9,7 +9,7 @@
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "ProjectAlienMainBoard",
+      "Name": "ProjectALIENMainBoard",
       "GUID": "50726f6a-6563-4744-916c-69656e4d6169",
       "Revision": "1.0"
     },
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "ProjectAlienMainBoard-F_Cu.gbr",
+      "Path": "ProjectALIENMainBoard-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ProjectAlienMainBoard-B_Cu.gbr",
+      "Path": "ProjectALIENMainBoard-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ProjectAlienMainBoard-F_Paste.gbr",
+      "Path": "ProjectALIENMainBoard-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ProjectAlienMainBoard-B_Paste.gbr",
+      "Path": "ProjectALIENMainBoard-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ProjectAlienMainBoard-F_Silkscreen.gbr",
+      "Path": "ProjectALIENMainBoard-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ProjectAlienMainBoard-B_Silkscreen.gbr",
+      "Path": "ProjectALIENMainBoard-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "ProjectAlienMainBoard-F_Mask.gbr",
+      "Path": "ProjectALIENMainBoard-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ProjectAlienMainBoard-B_Mask.gbr",
+      "Path": "ProjectALIENMainBoard-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "ProjectAlienMainBoard-Edge_Cuts.gbr",
+      "Path": "ProjectALIENMainBoard-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

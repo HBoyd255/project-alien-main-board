@@ -447,7 +447,7 @@
     ]
   },
   "meta": {
-    "filename": "ProjectAlienMainBoard.kicad_pro",
+    "filename": "ProjectALIENMainBoard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -485,9 +485,9 @@
       "plot": "../production/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../00_Inbox/ProjectAlienMainBoard.step",
+      "step": "../../../../00_Inbox/ProjectALIENMainBoard.step",
       "svg": "",
-      "vrml": "../../../../00_Inbox/ProjectAlienMainBoard.wrl"
+      "vrml": "../../../../00_Inbox/ProjectALIENMainBoard.wrl"
     },
     "page_layout_descr_file": ""
   },

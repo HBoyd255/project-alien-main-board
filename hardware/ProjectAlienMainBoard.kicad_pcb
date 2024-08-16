@@ -466,7 +466,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/afe44784-99b7-4ff0-a81a-24d047263872")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -751,7 +751,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/568bbda3-6954-4151-9ae7-96e184dd4d2a")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -1246,7 +1246,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/2b864524-10ff-4166-8967-2c1bfd43d74f")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -1635,7 +1635,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/de894a9a-e4e0-4dfb-83e9-a85d53664009")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -2110,7 +2110,7 @@
 		(property ki_fp_filters "Arduino*Nano*")
 		(path "/73b1adff-f6c6-42e9-81ce-64079e4fcc16")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.68 42.04)
@@ -3178,7 +3178,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/5bedd6bf-29ad-48f9-86be-7b5f580798a6")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3505,7 +3505,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c867ac3d-614d-4271-b6e5-b70e710d3f44")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -3745,7 +3745,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/47bcf592-fd33-4371-b7c7-5698cf398469")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -4075,7 +4075,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d045ddb3-fe81-4a5a-914e-f44ab4b4ea30")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 -0.38)
@@ -4535,7 +4535,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/3e70d290-c4b0-4fbc-a482-57698521dcbc")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -4815,7 +4815,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e1ffed27-32e5-46d1-a191-9aabd82e8dd8")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 -0.38)
@@ -5122,7 +5122,7 @@
 		)
 		(path "/6882d109-ce95-436d-ad30-274cbc3898f9")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -10.198026 -8.928026)
@@ -6740,7 +6740,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bace72d3-ed33-4379-b042-cb1b61d80907")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 -0.38)
@@ -7220,7 +7220,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/405a9e1a-c44a-4fc9-aa55-97ce3906a484")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -7705,7 +7705,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c08703f4-c43a-4b78-a09d-85dbd757d8d5")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -8025,7 +8025,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/616fbbc6-7d15-4f09-ad89-32f2ba6a0f0b")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -8531,7 +8531,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/b58c463e-21cd-40c2-9b1b-de177acffbaa")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -8781,7 +8781,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x9.9mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm* SOIC*5.3x10.2mm*P1.27mm*")
 		(path "/13123cf8-e4ec-412f-b1a4-6cbda89b6634")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.46 19.11)
@@ -9342,7 +9342,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d2d48b23-0af4-43c0-9f88-7ed7e12afb81")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -9836,7 +9836,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/ae8a50dd-dfcf-476f-ae6e-d9691372553f")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -10368,7 +10368,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/60e76978-a994-4723-b78e-34b5bd158f2b")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -10902,7 +10902,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5f6be766-d3eb-471c-991e-8d9f872917f8")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -11252,7 +11252,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/7895b44e-9c7f-4f6d-9152-409192bd3529")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.53 1.85)
@@ -11742,7 +11742,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/a9a44eb5-57fb-4b1f-ac14-85416a6141fd")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -11984,7 +11984,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e25d046c-f599-4081-aa87-473563a25819")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -12440,7 +12440,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/19e33a57-b168-4e8c-bdd3-2465106a9d16")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.9 -0.9)
@@ -12860,7 +12860,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/aa3fdc78-85b8-4ffc-835e-3dfa40edbfc1")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -13203,7 +13203,7 @@
 		)
 		(path "/e91d9e39-5db2-4009-b8c2-cde346cea0b1")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3 -1)
@@ -13767,7 +13767,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6bb06561-5558-47a4-aaf4-d2c9409a16fd")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -14137,7 +14137,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/139a5a99-5403-4647-abac-095edaa16d19")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -14498,7 +14498,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/068f25b3-1149-49bc-a3e9-caeb70460277")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -14758,7 +14758,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3b24a717-bc8e-4fe3-87e0-cbf64553fa91")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -15203,7 +15203,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/af7f37d4-7a6c-4655-b3a7-a115ef0818ab")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -15580,7 +15580,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5afb76b7-ff3f-4d4a-9414-a86fe153d327")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -16084,7 +16084,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/c4e9dfcd-91c7-44b8-86b1-2a109fb31e91")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -16297,7 +16297,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/62a9e7c5-85f0-495a-b7fd-1985386cd91e")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -16743,7 +16743,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/d1b20c16-9d96-4d36-8ad4-7d9c44a4484a")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -17004,7 +17004,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e4e025b7-e35e-4e32-b174-394b36b28d2a")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -17489,7 +17489,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/eaeeeafc-f858-494d-8a7f-8e8138909d7d")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -17886,7 +17886,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/4d266b15-f435-48b3-bfeb-127b5d20722c")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -18203,7 +18203,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/df5b1a8d-1063-47ff-a0d7-8d5fd46b5cac")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 -1.27)
@@ -19804,7 +19804,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c544e9d-b26c-477e-92e9-255ba96eacf6")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -20281,7 +20281,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c59af22e-c793-41e9-bc45-a8a80ed3e308")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr exclude_from_pos_files)
 		(fp_circle
 			(center 0 0)
@@ -20629,7 +20629,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/c93bdba9-d0e1-4964-839f-33afe34bec68")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.53 1.85)
@@ -21230,7 +21230,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ea8df7be-ad96-424c-9f84-0536fea4d0f7")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -21628,7 +21628,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b5465ca7-b954-4471-b314-bafa6b790ab6")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.167621 0.38)
@@ -22115,7 +22115,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4f1285ac-02cc-49e8-b402-f4ffa5c80b01")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.1 0.38)
@@ -23263,7 +23263,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e1aa1304-00eb-4b2c-be9c-29c5749ecadb")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -10.12 -10)
@@ -24769,7 +24769,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/251499a9-3404-4182-a35c-8e3d7393f421")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -10.16 2.6)
@@ -25958,7 +25958,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1e73c68c-40cc-455b-a788-20c539e02e10")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 1.27)
@@ -27213,7 +27213,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/2ce1f7b8-9a96-47e3-a626-b37383d1de70")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.33 -1.27)
@@ -27595,7 +27595,7 @@
 		)
 		(path "/b97b0c97-58a5-4f4e-98ae-306f131be1e5")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(fp_rect
 			(start -12.836209 9.312)
 			(end -15.578692 11.74657)
@@ -28084,7 +28084,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/21a30102-28f2-478a-ac1e-f5af8407ef8e")
 		(sheetname "Root")
-		(sheetfile "ProjectAlienMainBoard.kicad_sch")
+		(sheetfile "ProjectALIENMainBoard.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.1 0.38)
