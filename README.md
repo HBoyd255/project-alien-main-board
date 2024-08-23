@@ -21,3 +21,10 @@ The code to test the board has been split into separate repositories.
 - [LED Strip and Level Shifter](https://github.com/HBoyd255/project-alien-led-strip-test-code)
 - [Ultrasonic Sensor](https://github.com/HBoyd255/project-alien-ultrasonic-test-code)
 - [Infrared Sensors and I2C Multiplexer](https://github.com/HBoyd255/project-alien-infrared-test-code)
+
+## Expansion Boards
+
+The Project A.L.I.E.N. Main Board has been designed to to take expansion boards.
+This utilises the 3 left-over GPIO pins, D11, D12 and D13.
+
+- [Extra buttons ](https://github.com/HBoyd255/project-alien-expansion-demo-buttons)
