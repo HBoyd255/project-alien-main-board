@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "8.0.1"
     },
-    "CreationDate": "2024-08-15T18:35:28+01:00"
+    "CreationDate": "2024-08-23T17:24:51+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "ProjectALIENMainBoard",
-      "GUID": "50726f6a-6563-4744-916c-69656e4d6169",
+      "GUID": "50726f6a-6563-4744-914c-49454e4d6169",
       "Revision": "1.0"
     },
     "Size": {
