@@ -8028,8 +8028,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13123cf8-e4ec-412f-b1a4-6cbda89b6634")
-		(property "Reference" "U1"
-			(at 103.7941 97.79 0)
+		(property "Reference" "U3"
+			(at 103.7941 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8038,7 +8038,7 @@
 			)
 		)
 		(property "Value" "4021"
-			(at 103.7941 100.33 0)
+			(at 103.7941 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8047,11 +8047,12 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
-			(at 101.6 116.84 0)
+			(at 103.7941 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF4021B.pdf"
@@ -8123,7 +8124,7 @@
 		(instances
 			(project "ProjectALIENMainBoard"
 				(path "/170b00d5-17da-40d3-a37d-b29c3db0afc1"
-					(reference "U1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -10806,7 +10807,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6882d109-ce95-436d-ad30-274cbc3898f9")
-		(property "Reference" "M1"
+		(property "Reference" "U2"
 			(at 152.4 44.45 0)
 			(effects
 				(font
@@ -10888,7 +10889,7 @@
 		(instances
 			(project "ProjectALIENMainBoard"
 				(path "/170b00d5-17da-40d3-a37d-b29c3db0afc1"
-					(reference "M1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -10971,7 +10972,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "73b1adff-f6c6-42e9-81ce-64079e4fcc16")
-		(property "Reference" "A1"
+		(property "Reference" "U1"
 			(at 265.7759 154.94 0)
 			(effects
 				(font
@@ -11110,7 +11111,7 @@
 		(instances
 			(project "ProjectALIENMainBoard"
 				(path "/170b00d5-17da-40d3-a37d-b29c3db0afc1"
-					(reference "A1")
+					(reference "U1")
 					(unit 1)
 				)
 			)
